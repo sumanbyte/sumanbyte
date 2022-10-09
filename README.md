@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there I am Suman Parajuli👋
 
-<!--
-**sumanbyte/sumanbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on continiously to improve my skills.
+- 🌱 I’m currently learning Javascript, React, Node, Express and MongoDB
+- 👯 I’m looking to collaborate on Javascript Projects.
+- 🤔 I’m looking for help with some of my opensource projects.
+- 💬 Ask me about javascript, react, html, css.
+- 📫 How to reach me: sumansupercell@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love learning new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![@sumanbyte's Holopin board](https://holopin.io/api/user/board?user=sumanbyte)](https://holopin.io/@sumanbyte)
